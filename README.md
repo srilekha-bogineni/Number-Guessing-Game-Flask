@@ -70,21 +70,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-### Home
-
-(Add home.png)
-
-### Game
-
-(Add game.png)
-
-### Win Screen
-
-(Add win.png)
-
----
 
 ## 👩‍💻 Developed By
 
